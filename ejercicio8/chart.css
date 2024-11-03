@@ -1,0 +1,15 @@
+.contenedor{
+    text-align: center;
+}
+.canvas{
+    height: 20rem;
+    width: 20rem;
+    margin: 0 auto;
+}
+.btn-group-custom {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 10px;
+  }
